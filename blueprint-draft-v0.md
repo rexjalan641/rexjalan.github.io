@@ -20,6 +20,16 @@ German AI Act tracker anchor in a dedicated red-teamed session.
 - H3: Actor profiles feed the transatlantic diplomacy narrative.
 - H4: Site = anchor + proof of work; Substack/LinkedIn = opinions and governance takes.
 
+## Multi-team red-team design (agreed 23 Aug, to run in fresh session)
+Same inputs to every team: blueprint draft v0, Plan v2, profile/interests, ground-reality research.
+1. Market Analyst — what German Werkstudent employers/policy orgs reward.
+2. Feasibility Auditor — solo student, manual, free tools, ~10 hrs/wk; attacks scope creep.
+3. Differentiation Critic — "Stanford HAI already did this" stress test.
+4. Devil's Advocate — argues against the whole direction; surfaces unstated failure modes.
+5. Ideator — generates fresh content angles beyond the current three streams.
+6. In-depth Researcher — grounds ideas in verifiable sources (existing indices, trackers, orgs).
+Synthesis rule: all-agree points = strong; clashes = arbitrated by Rex. Caution: 4–6x token cost of one verifier run; cap teams at 6.
+
 ## Open questions for the red-team session
 - Scope creep risk vs Plan v2 pillars?
 - Research effort budget (solo, manual, free tools)?
