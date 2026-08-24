@@ -14,7 +14,7 @@ Winning axes (incumbents can't match): EN+German bilingual access · Germany-onl
 2. **F-reshaped — EN curation briefs** ~5 hrs/mo
    English curation/annotation of German AI-policy sources (ChinAI model). True translation briefs deferred until B2 German.
    Lives on Substack (email list = future asset) + mirrored to site/LinkedIn.
-   Topic rotation includes tech-actor coverage: company aims & AI Act compliance posture as occasional brief topics (absorbs original Stream 2 — no separate product, no extra hours; feeds H3 transatlantic narrative).
+   Topic rotation includes tech-actor coverage: company aims & AI Act compliance posture as occasional brief topics (absorbs original Stream 2 — no separate product, no extra hours; feeds the Germany-enforcement narrative).
 3. **I — Capability→Clause memos** ~5 hrs/mo, monthly
    One frontier capability mapped to one AI Act article per month. Quarterly if workload spikes.
 4. **D-private — hiring-market scans** ~2.5 hrs/mo, PRIVATE
