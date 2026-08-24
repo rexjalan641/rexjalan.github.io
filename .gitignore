@@ -1,0 +1,10 @@
+
+# internal working docs — stay local, not on the public site
+briefs/
+research/
+blueprint*.md
+template-*.md
+EXECUTION-PLAYBOOK.md
+HANDOFF-ARTIFACTS.md
+_blueprint-view.html
+_master-view.html
