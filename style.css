@@ -64,6 +64,21 @@ h2 { font-size: 1.6rem; margin-bottom: 1rem; }
 .card p { color: var(--muted); font-size: .95rem; }
 .card a { color: var(--accent); }
 
+/* Coverage grid */
+.coverage-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; }
+@media (min-width: 640px) { .coverage-grid { grid-template-columns: 1fr 1fr; } }
+.coverage-item {
+  display: flex; gap: 1.1rem; align-items: baseline;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px; padding: 1.2rem 1.3rem;
+}
+.coverage-num {
+  font-size: .8rem; font-weight: 700; color: var(--accent);
+  font-variant-numeric: tabular-nums; letter-spacing: .05em;
+}
+.coverage-item h3 { font-size: 1rem; margin-bottom: .35rem; }
+.coverage-item p { color: var(--muted); font-size: .92rem; line-height: 1.55; }
+
 /* Tracker placeholder */
 .tracker-placeholder { border: 1px dashed var(--border); border-radius: 12px; padding: 2rem; color: var(--muted); background: var(--bg-alt); }
 .tracker-placeholder strong { color: var(--text); }
