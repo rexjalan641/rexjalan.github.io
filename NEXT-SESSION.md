@@ -1,32 +1,33 @@
 # NEXT-SESSION HANDOFF — written 25 Aug 2026 (afternoon), for next session
 
-Read this first, then check `HANDOFF-ARTIFACTS.md` and `blueprint-v2.md`. Don't re-derive what's below.
+Read this first, then check `blueprint-v2.md` (strategy source of truth) and `HANDOFF-ARTIFACTS.md`. Don't re-derive what's below.
 
 ## Where things stand (25 Aug afternoon)
 
-**Blueprint v2 WRITTEN — status DRAFT, Rex has not yet flipped to APPROVED.**
-- Strategy: "Deep anchor, wide rotation, data decides" — employment-first.
-- 8 hardcoded domains (D1–D8) in blueprint-v2.md §3. Tracker = permanent anchor; rotation via ONE Substack vehicle; 2 concurrent products max.
-- ALL tripwires + 90-day freeze REMOVED at Rex's direction ("too early") — do not reinstate.
-- Council v2 ran correctly on Rex's own proposal this time (lesson: council subjects must be the user's proposal, not agent-curated pools).
+**MAJOR PIVOT COMPLETED TODAY — read Blueprint v2 before anything else:**
+- Strategy broadened from Germany-only AI regulation to full IR-of-AI scope. Council v2 ran on Rex's own proposal (not agent-curated ideas). Result: "Deep anchor, wide rotation, data decides."
+- 8 hardcoded domains (D1–D8) in blueprint-v2.md §3. Rotation through ONE Substack vehicle; tracker is ONE project among several, NOT "the anchor" (standing rule).
+- ALL tripwires + positioning freeze REMOVED by Rex ("too early"). Two-product cap and hours model remain.
+- Agreed sequence: handoff artifacts ✅ → public face ✅ → rotation pieces → outreach when Rex decides.
 
-## Agreed sequence (Rex set it)
-1. **Handoff artifact refresh for v2 — mostly DONE 25 Aug:**
-   - ✅ HANDOFF-ARTIFACTS.md: v2 banner + new priority queue
-   - ✅ template-f-brief.md & template-i-memo.md: `domain:` + `geographic_pair:` frontmatter added
-   - ✅ q4-portfolio-execution skill: source-of-truth → v2, tripwire check removed, rotation rules added
-   - ✅ EXECUTION-PLAYBOOK.md: v2 addendum on top
-2. **Public-face rework (NEXT):** GitHub index page + LinkedIn headline/About broadened to "IR of AI, from Germany" across D1–D8; tracker demoted identity→anchor project. Hermes drafts copy → Rex approves → paste/push.
-3. **Rotation pieces:** F-Brief #2 = first rotation piece, non-D4 domain, Rex picks domain/topic.
-4. **Outreach:** drafts final in outreach/draft-pass-01.md but wording needs recalibration ("short memo" not "analysis"). Send ONLY when Rex decides.
+**Done today:**
+- Site reworked & PUSHED LIVE (rexjalan.github.io): intersection hero, name in kicker, 8-domain coverage grid, tracker as one project. Em-dashes and hyperbole removed per rex-style-guide.
+- Coverage cards = honest placeholders; upgrade each with a concrete question + link ONLY when a real published piece exists behind it (queue: research/coverage-rewrite-queue.md)
+- Google Docs (Master Doc + About Rex) updated with v2 addenda
+- All governing docs point to blueprint-v2 (playbook addendum, skill, templates have domain+geographic_pair fields)
+- LinkedIn headline/About copy FINALIZED and delivered to Rex in-chat for him to paste himself
 
-## Open decisions waiting on Rex
-1. Flip blueprint-v2.md DRAFT → APPROVED (starts nothing automatically; just marks the strategy locked)
-2. Approve public-face copy when drafted (next task)
-3. Pick F-Brief #2 domain + topic
+## Open items for next session
 
-## Standing rules (unchanged)
+1. **LinkedIn paste confirmation** — ask Rex if he pasted the headline/About. Copy is in the chat transcript of 25 Aug; key points: no em-dashes, tracker as one project, site URL in headline.
+2. **F-Brief #2 = first rotation piece** — must be non-D4 domain, Rex picks which. Candidates discussed: Dresden chips gamble (D5), Germany's AI foreign policy (D2), EU–India tech talks (D7). Geographic-pair rule applies.
+3. **Outreach emails** — drafts final in outreach/draft-pass-01.md. BEFORE sending: recalibrate wording ("memo" not "analysis"). Rex sends himself, only on his explicit go.
+4. **September calendar** — still needs his weekly-hours number.
+
+## Standing rules (accumulated)
 - Nothing publishes/sends without Rex's explicit OK
-- One task at a time, step by step
-- Transatlantic framing stays dead; killed ideas stay dead (blueprint-v2 §4 list)
-- LinkedIn: no automation/MCP
+- Reviews: language polish by default; content changes only with his explicit instruction (he reverted an over-eager content reviewer today)
+- Tracker never framed as "the anchor" of his identity
+- No em-dashes, no hyperbole, no superlatives, no unexplained jargon in public copy (rex-style-guide)
+- Killed ideas stay dead: transatlantic framing, divergence scoring, syllabus, global index
+- LinkedIn: no automation/MCP on his account
